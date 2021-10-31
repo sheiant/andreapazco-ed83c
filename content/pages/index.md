@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hola, Soy Andrea. Ayudo a Dentistas a tener éxito con Marketing Digital'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Manejaré el diseño y la producción de su sitio web, las cuentas de redes
+      sociales y los anuncios digitales por usted, a un precio asequible.
     actions:
       - label: Contact Me
         url: /contact
