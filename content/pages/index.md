@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hola, Soy Andrea. Ayudo a Dentistas a tener éxito en Marketing Digital'
+    title: 'Hola, Soy Andrea. Ayudo a Dentistas a tener éxito en Internet'
     subtitle: >-
       Manejaré el diseño y la producción de su sitio web, las cuentas de redes
       sociales y los anuncios digitales por usted, a un precio asequible.
